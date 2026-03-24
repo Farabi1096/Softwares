@@ -57,36 +57,6 @@ I bridge the gap between complex datasets and executive action. With a career bu
 
 ---
 
-## <span style="color:#003366">📂 Strategic Projects</span>
-*Explore detailed dashboards and technical logic via the links below.*
-
-<table>
-  <thead>
-    <tr>
-      <th bgcolor="#E1F5FE" align="center">📊 Power BI Dashboards</th>
-      <th bgcolor="#E8F5E9" align="center">📑 Excel Automation</th>
-      <th bgcolor="#F3E5F5" align="center">🤖 AI & Cloud Apps</th>
-      <th bgcolor="#FFF3E0" align="center">⌨️ Speed Engine</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" bgcolor="#F1F9FF">Interactive dashboards for Factory Performance, Sales 360, and Gap Analysis.</td>
-      <td align="center" bgcolor="#F1FBF2">End-to-end KPI tracking systems built with Power Query and VBA macros.</td>
-      <td align="center" bgcolor="#FAEDFC">AI-powered web app for real-time retail display audits using Gemini API.</td>
-      <td align="center" bgcolor="#FFF9F1">Technical project showcasing data entry precision and 115 WPM optimization.</td>
-    </tr>
-    <tr>
-      <td align="center" bgcolor="#E1F5FE"><a href="https://github.com/Farabi1096/powerbi-dashboards"><b>View Project →</b></a></td>
-      <td align="center" bgcolor="#E8F5E9"><a href="https://github.com/Farabi1096/excel-automated-reports"><b>View Project →</b></a></td>
-      <td align="center" bgcolor="#F3E5F5"><a href="https://github.com/Farabi1096/Retail-Automation-Portfolio"><b>View Project →</b></a></td>
-      <td align="center" bgcolor="#FFF3E0"><a href="https://github.com/Farabi1096/typing-tornado"><b>View Project →</b></a></td>
-    </tr>
-  </tbody>
-</table>
-
----
-
 ## <span style="color:#003366">🔍 Explore All Projects</span>
 *Browse the complete collection of my work — dashboards, automation tools, AI apps & more.*
 
@@ -179,19 +149,6 @@ I bridge the gap between complex datasets and executive action. With a career bu
 * **MIS Executive** | *Colgate-Palmolive ACI Bangladesh* (Current)
 * **Senior Officer – MIS** | *Unilever International*
 * **Officer – MIS** | *Transcom Distribution Company Limited*
-
----
-
-## <span style="color:#003366">📊 GitHub Analytics</span>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farabi1096&show_icons=true&theme=default&hide_border=true&title_color=003366&icon_color=003366&text_color=333333" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farabi1096&theme=default&hide_border=true&ring=003366&fire=EB102F&currStreakLabel=003366" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farabi1096&layout=compact&theme=default&hide_border=true&title_color=003366" alt="Top Languages" width="40%"/>
-</p>
 
 ---
 
