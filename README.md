@@ -98,44 +98,6 @@ I bridge the gap between complex datasets and executive action. With a career bu
   </tbody>
 </table>
 
-<table>
-  <thead>
-    <tr>
-      <th bgcolor="#E0F2F1" align="center">🗄️ SQL & Database</th>
-      <th bgcolor="#FBE9E7" align="center">📈 Sales Analytics</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" bgcolor="#E8F6F3">Complex SQL queries, stored procedures & database optimization for MIS reporting pipelines.</td>
-      <td align="center" bgcolor="#FFF0EB">Nationwide sales performance tracking, distributor gap analysis & territory-wise revenue insights.</td>
-    </tr>
-    <tr>
-      <td align="center" bgcolor="#E0F2F1"><a href="https://github.com/Farabi1096/sql-projects"><b>Explore →</b></a></td>
-      <td align="center" bgcolor="#FBE9E7"><a href="https://github.com/Farabi1096/sales-analytics"><b>Explore →</b></a></td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th bgcolor="#E8EAF6" align="center">📋 Data Cleaning & ETL</th>
-      <th bgcolor="#F1F8E9" align="center">🌐 Web & API Projects</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" bgcolor="#ECEEF8">Data wrangling, transformation pipelines & quality frameworks for enterprise-level datasets.</td>
-      <td align="center" bgcolor="#F5FAF0">Web-based tools and API integrations for business process automation and data collection.</td>
-    </tr>
-    <tr>
-      <td align="center" bgcolor="#E8EAF6"><a href="https://github.com/Farabi1096/data-cleaning-etl"><b>Explore →</b></a></td>
-      <td align="center" bgcolor="#F1F8E9"><a href="https://github.com/Farabi1096/web-api-projects"><b>Explore →</b></a></td>
-    </tr>
-  </tbody>
-</table>
-
 <p align="center">
   <br>
   <a href="https://github.com/Farabi1096?tab=repositories">
@@ -154,22 +116,6 @@ I bridge the gap between complex datasets and executive action. With a career bu
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <span style="color:#003366">📩 Let's Connect</span>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/faisal-meah/">
-    <img src="https://img.shields.io/badge/LinkedIn-Faisal%20Meah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:farabihossain1096@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Faisal%20Meah-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1KwfMGcRpkbht4lnc0Ni9NOD0P7qp0aal/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Download-CV-EB102F?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  </a>
-</p>
-
----
 
 <p align="center">
   <i>"Transforming raw data into operational clarity."</i>
