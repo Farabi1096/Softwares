@@ -88,26 +88,88 @@ I bridge the gap between complex datasets and executive action. With a career bu
 ---
 
 ## <span style="color:#003366">🔍 Explore All Projects</span>
+*Browse the complete collection of my work — dashboards, automation tools, AI apps & more.*
+
+<table>
+  <thead>
+    <tr>
+      <th bgcolor="#E1F5FE" align="center">📊 Power BI Dashboards</th>
+      <th bgcolor="#E8F5E9" align="center">📑 Excel Automation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" bgcolor="#F1F9FF">Factory Performance, Sales 360, Gap Analysis & regional KPI tracking dashboards with drill-through pages.</td>
+      <td align="center" bgcolor="#F1FBF2">Automated KPI trackers, attendance systems & report generators using Power Query and VBA macros.</td>
+    </tr>
+    <tr>
+      <td align="center" bgcolor="#E1F5FE"><a href="https://github.com/Farabi1096/powerbi-dashboards"><b>Explore →</b></a></td>
+      <td align="center" bgcolor="#E8F5E9"><a href="https://github.com/Farabi1096/excel-automated-reports"><b>Explore →</b></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th bgcolor="#F3E5F5" align="center">🤖 AI & Cloud Apps</th>
+      <th bgcolor="#FFF3E0" align="center">⌨️ Speed Engine</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" bgcolor="#FAEDFC">AI-powered retail display audit app using Gemini API with real-time image analysis and scoring engine.</td>
+      <td align="center" bgcolor="#FFF9F1">Typing speed optimization project showcasing 115 WPM precision with accuracy tracking.</td>
+    </tr>
+    <tr>
+      <td align="center" bgcolor="#F3E5F5"><a href="https://github.com/Farabi1096/Retail-Automation-Portfolio"><b>Explore →</b></a></td>
+      <td align="center" bgcolor="#FFF3E0"><a href="https://github.com/Farabi1096/typing-tornado"><b>Explore →</b></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th bgcolor="#E0F2F1" align="center">🗄️ SQL & Database</th>
+      <th bgcolor="#FBE9E7" align="center">📈 Sales Analytics</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" bgcolor="#E8F6F3">Complex SQL queries, stored procedures & database optimization for MIS reporting pipelines.</td>
+      <td align="center" bgcolor="#FFF0EB">Nationwide sales performance tracking, distributor gap analysis & territory-wise revenue insights.</td>
+    </tr>
+    <tr>
+      <td align="center" bgcolor="#E0F2F1"><a href="https://github.com/Farabi1096/sql-projects"><b>Explore →</b></a></td>
+      <td align="center" bgcolor="#FBE9E7"><a href="https://github.com/Farabi1096/sales-analytics"><b>Explore →</b></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th bgcolor="#E8EAF6" align="center">📋 Data Cleaning & ETL</th>
+      <th bgcolor="#F1F8E9" align="center">🌐 Web & API Projects</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" bgcolor="#ECEEF8">Data wrangling, transformation pipelines & quality frameworks for enterprise-level datasets.</td>
+      <td align="center" bgcolor="#F5FAF0">Web-based tools and API integrations for business process automation and data collection.</td>
+    </tr>
+    <tr>
+      <td align="center" bgcolor="#E8EAF6"><a href="https://github.com/Farabi1096/data-cleaning-etl"><b>Explore →</b></a></td>
+      <td align="center" bgcolor="#F1F8E9"><a href="https://github.com/Farabi1096/web-api-projects"><b>Explore →</b></a></td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center">
+  <br>
   <a href="https://github.com/Farabi1096?tab=repositories">
-    <img src="https://img.shields.io/badge/📁_View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
-  </a>
-</p>
-
-| # | Project | Description | Tools | Link |
-|---|---------|-------------|-------|------|
-| 📊 | **Power BI Dashboards** | Factory Performance, Sales 360 & Gap Analysis | Power BI · DAX · SQL | [🔗 Repo](https://github.com/Farabi1096/powerbi-dashboards) |
-| 📑 | **Excel Automated Reports** | KPI tracking with Power Query & VBA macros | Excel · VBA · Power Query | [🔗 Repo](https://github.com/Farabi1096/excel-automated-reports) |
-| 🤖 | **Retail Automation Portfolio** | AI-powered retail display audit using Gemini API | Python · Gemini API · Cloud | [🔗 Repo](https://github.com/Farabi1096/Retail-Automation-Portfolio) |
-| ⌨️ | **Typing Tornado** | Speed engine for data entry precision (115 WPM) | JavaScript · HTML · CSS | [🔗 Repo](https://github.com/Farabi1096/typing-tornado) |
-
-<p align="center">
-  <a href="https://github.com/Farabi1096?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/badge/⭐_Most_Starred-FFDD00?style=for-the-badge&logo=github&logoColor=black" alt="Starred"/>
-  </a>
-  <a href="https://github.com/Farabi1096?tab=repositories&sort=updated">
-    <img src="https://img.shields.io/badge/🕐_Recently_Updated-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Recent"/>
+    <img src="https://img.shields.io/badge/📁_View_All_Repositories_on_GitHub-003366?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
   </a>
 </p>
 
