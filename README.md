@@ -1,7 +1,7 @@
 <!-- Typing Effect -->
 <p align="center">
   <a href="https://github.com/Farabi1096">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=003366&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=%F0%9F%91%8B+Hi%2C+I'm+Faisal+Meah;%F0%9F%93%8A+MIS+Executive+%7C+Business+Insights+%26+Sales+Ops;%E2%9A%A1+Power+BI+%7C+SQL+%7C+Excel+VBA+%7C+Gemini+API;%F0%9F%8F%AD+Colgate-Palmolive+%7C+Ex-Unilever;%F0%9F%92%A1+Turning+Raw+Data+Into+Operational+Clarity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=EB102F&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=%F0%9F%91%8B+Hi%2C+I'm+Faisal+Meah;%F0%9F%93%8A+MIS+Executive+%7C+Business+Insights+%26+Sales+Ops;%E2%9A%A1+Power+BI+%7C+SQL+%7C+Excel+VBA+%7C+Gemini+API;%F0%9F%8F%AD+Colgate-Palmolive+%7C+Ex-Unilever;%F0%9F%92%A1+Turning+Raw+Data+Into+Operational+Clarity" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Farabi1096&label=Profile+Views&color=003366&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Farabi1096?label=Followers&style=flat-square&color=003366" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Farabi1096&label=Profile+Views&color=EB102F&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Farabi1096?label=Followers&style=flat-square&color=EB102F" alt="Followers"/>
 </p>
 
 ---
@@ -101,7 +101,7 @@ I bridge the gap between complex datasets and executive action. With a career bu
 <p align="center">
   <br>
   <a href="https://github.com/Farabi1096?tab=repositories">
-    <img src="https://img.shields.io/badge/📁_View_All_Repositories_on_GitHub-003366?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
+    <img src="https://img.shields.io/badge/📁_View_All_Repositories_on_GitHub-EB102F?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
   </a>
 </p>
 
