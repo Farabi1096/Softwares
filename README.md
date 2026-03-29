@@ -1,20 +1,18 @@
-<!-- Typing Effect -->
 <p align="center">
   <a href="https://github.com/Farabi1096">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=EB102F&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=%F0%9F%91%8B+Hi%2C+I'm+Faisal+Meah;%F0%9F%93%8A+MIS+Executive+%7C+Business+Insights+%26+Sales+Ops;%E2%9A%A1+Power+BI+%7C+SQL+%7C+Excel+VBA+%7C+Gemini+API;%F0%9F%8F%AD+Colgate-Palmolive+%7C+Ex-Unilever;%F0%9F%92%A1+Turning+Raw+Data+Into+Operational+Clarity" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Badges -->
 <p align="center">
   <a href="https://drive.google.com/file/d/1KwfMGcRpkbht4lnc0Ni9NOD0P7qp0aal/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Download-CV-EB102F?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Download-CV-EB102F?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV"/>
   </a>
   <a href="https://www.linkedin.com/in/faisal-meah/">
-    <img src="https://img.shields.io/badge/LinkedIn-Faisal%20Meah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Faisal%20Meah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:farabihossain1096@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Faisal%20Meah-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Faisal%20Meah-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -25,8 +23,7 @@
 
 ---
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/Farabi1096/Farabi1096/main/images/divider.gif" alt="divider" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated line divider">
 
 I bridge the gap between complex datasets and executive action. With a career built at **Colgate-Palmolive** and **Unilever**, I specialize in high-speed reporting automation and interactive BI solutions that drive nationwide sales performance.
 
@@ -37,9 +34,9 @@ I bridge the gap between complex datasets and executive action. With a career bu
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="images/Award.jpg" alt="Create the Future Award 2025" width="350">
+      <img src="images/Award.jpg" alt="Create the Future Award Certificate" width="350" style="border-radius: 8px; border: 1px solid #ddd;">
     </td>
-    <td width="60%" valign="middle">
+    <td width="60%" style="vertical-align: middle; padding-left: 20px;">
       <h3>Create the Future Award 2025</h3>
       <p><b>Colgate-Palmolive ACI Bangladesh Pvt. Limited</b></p>
       <p>Recognized for excellence in driving digital innovation and building future-ready MIS frameworks to optimize organizational efficiency. This initiative streamlined cross-functional data flows and enhanced real-time decision-making capabilities across the sales operation.</p>
@@ -52,13 +49,13 @@ I bridge the gap between complex datasets and executive action. With a career bu
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SFA_Systems-EB102F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel VBA"/>
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Power Query"/>
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
+  <img src="https://img.shields.io/badge/SFA_Systems-EB102F?style=for-the-badge" alt="SFA Systems"/>
 </p>
 
 ---
@@ -69,56 +66,42 @@ I bridge the gap between complex datasets and executive action. With a career bu
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" bgcolor="#E1F5FE" align="center">📊 Power BI Dashboards</th>
-      <th width="50%" bgcolor="#E8F5E9" align="center">📑 Excel Automation</th>
+      <th width="50%" align="center">📊 Power BI Dashboards</th>
+      <th width="50%" align="center">📑 Excel Automation</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="50%" align="center" bgcolor="#F1F9FF">Factory Performance, Sales 360, Gap Analysis & regional KPI tracking dashboards with drill-through pages.</td>
-      <td width="50%" align="center" bgcolor="#F1FBF2">Automated KPI trackers, attendance systems & report generators using Power Query and VBA macros.</td>
+      <td width="50%" align="center">Factory Performance, Sales 360, Gap Analysis & regional KPI tracking dashboards with drill-through pages.</td>
+      <td width="50%" align="center">Automated KPI trackers, attendance systems & report generators using Power Query and VBA macros.</td>
     </tr>
     <tr>
-      <td width="50%" align="center" bgcolor="#E1F5FE"><a href="https://github.com/Farabi1096/powerbi-dashboards"><b>Explore →</b></a></td>
-      <td width="50%" align="center" bgcolor="#E8F5E9"><a href="https://github.com/Farabi1096/excel-automated-reports"><b>Explore →</b></a></td>
-    </tr>
-  </tbody>
-</table>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" bgcolor="#F3E5F5" align="center">🤖 AI & Cloud Apps</th>
-      <th width="50%" bgcolor="#FFF3E0" align="center">⌨️ Speed Engine</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="50%" align="center" bgcolor="#FAEDFC">AI-powered retail display audit app using Gemini API with real-time image analysis and scoring engine.</td>
-      <td width="50%" align="center" bgcolor="#FFF9F1">Typing speed optimization project showcasing 115 WPM precision with accuracy tracking.</td>
+      <td width="50%" align="center"><a href="https://github.com/Farabi1096/powerbi-dashboards"><b>Explore →</b></a></td>
+      <td width="50%" align="center"><a href="https://github.com/Farabi1096/excel-automated-reports"><b>Explore →</b></a></td>
     </tr>
     <tr>
-      <td width="50%" align="center" bgcolor="#F3E5F5"><a href="https://github.com/Farabi1096/Retail-Automation-Portfolio"><b>Explore →</b></a></td>
-      <td width="50%" align="center" bgcolor="#FFF3E0"><a href="https://github.com/Farabi1096/typing-tornado"><b>Explore →</b></a></td>
-    </tr>
-  </tbody>
-</table>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" bgcolor="#E0F2F1" align="center">🗺️ Retail Coverage Mapper</th>
-      <th width="50%" bgcolor="#ECEFF1" align="center">🔜 Coming Soon</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="50%" align="center" bgcolor="#E8F6F5">Browser-based outlet mapping tool for TA/DA verification, territory coverage analysis & route distance calculation using Leaflet.js.</td>
-      <td width="50%" align="center" bgcolor="#F5F5F5">More projects are on the way. Stay tuned for updates.</td>
+      <th width="50%" align="center"><br>🤖 AI & Cloud Apps</th>
+      <th width="50%" align="center"><br>⌨️ Speed Engine</th>
     </tr>
     <tr>
-      <td width="50%" align="center" bgcolor="#E0F2F1"><a href="https://github.com/Farabi1096/outlet-location-tracker"><b>Explore →</b></a></td>
-      <td width="50%" align="center" bgcolor="#ECEFF1"><b>—</b></td>
+      <td width="50%" align="center">AI-powered retail display audit app using Gemini API with real-time image analysis and scoring engine.</td>
+      <td width="50%" align="center">Typing speed optimization project showcasing 115 WPM precision with accuracy tracking.</td>
+    </tr>
+    <tr>
+      <td width="50%" align="center"><a href="https://github.com/Farabi1096/Retail-Automation-Portfolio"><b>Explore →</b></a></td>
+      <td width="50%" align="center"><a href="https://github.com/Farabi1096/typing-tornado"><b>Explore →</b></a></td>
+    </tr>
+    <tr>
+      <th width="50%" align="center"><br>🗺️ Retail Coverage Mapper</th>
+      <th width="50%" align="center"><br>🔜 Coming Soon</th>
+    </tr>
+    <tr>
+      <td width="50%" align="center">Browser-based outlet mapping tool for TA/DA verification, territory coverage analysis & route distance calculation using Leaflet.js.</td>
+      <td width="50%" align="center">More projects are on the way. Stay tuned for updates.</td>
+    </tr>
+    <tr>
+      <td width="50%" align="center"><a href="https://github.com/Farabi1096/outlet-location-tracker"><b>Explore →</b></a></td>
+      <td width="50%" align="center"><b>—</b></td>
     </tr>
   </tbody>
 </table>
@@ -126,7 +109,7 @@ I bridge the gap between complex datasets and executive action. With a career bu
 <p align="center">
   <br>
   <a href="https://github.com/Farabi1096?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-EB102F?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
+    <img src="https://img.shields.io/badge/📁_View_All_Repositories_on_GitHub-EB102F?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
   </a>
 </p>
 
@@ -139,30 +122,7 @@ I bridge the gap between complex datasets and executive action. With a career bu
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farabi1096&show_icons=true&theme=default&hide_border=true&title_color=EB102F&icon_color=EB102F&text_color=333333" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farabi1096&theme=default&hide_border=true&ring=EB102F&fire=EB102F&currStreakLabel=EB102F" alt="GitHub Streak" width="48%"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/faisal-meah/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:farabihossain1096@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Farabi1096">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated line divider">
 
 <p align="center">
   <i>"Transforming raw data into operational clarity."</i>
